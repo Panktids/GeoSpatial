@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Lyon_Center</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.288,34.025</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>HermanOstrow</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.287,34.024</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tommy_Trojan</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285,34.020</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>GloryaKaufman</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.286,34.023</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>USC_Church</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.284, 34.023</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OIS</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.282,34.022</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ralphs</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.291,34.032</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>EGG</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.280,34.029</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Home</name>
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.289,34.032</coordinates>
+</Point>
+</Placemark>
+<Placemark> 
+<Style><LineStyle><width>6</width><color>ff0000ff</color></LineStyle></Style>
+<LineString>
+  <coordinates>
+   -118.288,34.025,10.
+   -118.289,34.032,10.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+<Style><LineStyle><width>6</width><color>ff0000ff</color></LineStyle></Style>
+ <LineString>
+  <coordinates>
+   -118.287,34.024,10.
+   -118.289,34.032,10.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+<Style><LineStyle><width>6</width><color>ff0000ff</color></LineStyle></Style>
+ <LineString>
+  <coordinates>
+   -118.291,34.032,10.
+   -118.289,34.032,10.
+  </coordinates>
+ </LineString>
+</Placemark>
+
+</Document>
+</kml>
